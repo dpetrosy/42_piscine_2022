@@ -1,0 +1,5 @@
+Credentials cache: API:E4C00602-430E-4E8E-8ED3-DB7F81B57A96
+        Principal: dpetrosy@42YEREVAN.AM
+
+  Issued                Expires               Principal
+Feb  7 20:47:38 2022  Feb  8 06:47:38 2022  krbtgt/42YEREVAN.AM@42YEREVAN.AM
