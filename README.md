@@ -51,24 +51,24 @@ The table below presents the C Piscine's curriculum in chronological order in wh
 |:-:|:--								               |:-:		    |--:			       |--:		        |--:						           |:--			        |
 |00	|Create intra page			           |N/A		    |-				       |0 XP		      |100% :heavy_check_mark:	 |level 0 - 0%	  |
 |01	|Exam 00							             |C			    |about 2 hours	 |225 XP		    |64% :heavy_check_mark:		 |level 1 - 23% 	|
-|02	|[Shell 00](./c_piscine_shell_00)	 |Shell		  |about 1 day	   |100 XP		    |100% :heavy_check_mark:	 |level 2 - 01%  	|
-|03	|[Rush 00](./c_piscine_rush_00)		 |C			    |2 days			     |150 XP		    |116% :heavy_check_mark:   |level 3 - 18%   |
-|04	|[C 00](./c_piscine_c_00)		       |C			    |about 1 day	   |100 XP		    |96% :heavy_check_mark:	   |level 3 - 75%	  |
-|05	|[C 01](./c_piscine_c_01)			     |C			    |about 1 day	   |100 XP		    |100% :heavy_check_mark:	 |level 4 - 32%	  |
-|06	|[C 00](./c_piscine_c_00)		       |C			    |about 1 day	   |100 XP		    |100% :heavy_check_mark:	 |level 4 - 35%	  |
+|02	|[Shell 00](./Shell00)	 |Shell		  |about 1 day	   |100 XP		    |100% :heavy_check_mark:	 |level 2 - 01%  	|
+|03	|[Rush 00](./Rush00)		 |C			    |2 days			     |150 XP		    |116% :heavy_check_mark:   |level 3 - 18%   |
+|04	|[C 00](./C00)		       |C			    |about 1 day	   |100 XP		    |96% :heavy_check_mark:	   |level 3 - 75%	  |
+|05	|[C 01](./C01)			     |C			    |about 1 day	   |100 XP		    |100% :heavy_check_mark:	 |level 4 - 32%	  |
+|06	|[C 00](./C00)		       |C			    |about 1 day	   |100 XP		    |100% :heavy_check_mark:	 |level 4 - 35%	  |
 |07	|Exam 01							             |C			    |about 3 hours	 |225 XP		    |64% :heavy_check_mark:		 |level 5 - 10%	  |
-|08	|[C 03](./c_piscine_c_03)			     |C			    |about 1 day	   |100 XP		    |50% :heavy_check_mark:	   |level 5 - 33%	  |
-|09	|[C 02](./c_piscine_c_02)			     |C			    |about 1 day	   |100 XP		    |85% :heavy_check_mark:		 |level 5 - 73%	  |
-|10	|[C 03](./c_piscine_c_03)			     |C			    |about 1 day	   |100 XP		    |75% :heavy_check_mark:	   |level 5 - 84%	  |
-|11	|[C 04](./c_piscine_c_04)			     |C			    |about 1 day	   |100 XP		    |70% :heavy_check_mark:	   |level 6 - 07%	  |
-|12	|[Rush 01](./c_piscine_rush_01)		 |C			    |2 days			     |150 XP		    |100% :heavy_check_mark:	 |level 6 - 70%	  |
-|13	|[C 06](./c_piscine_c_06)			     |C			    |about 1 day	   |100 XP		    |100% :heavy_check_mark:	 |level 7 - 10%	  |
-|14	|[Shell 01](./c_piscine_shell_01)	 |Shell		  |about 1 day	   |100 XP		    |100% :heavy_check_mark:	 |level 7 - 47%	  |
-|15	|[C 05](./c_piscine_c_05)			     |C			    |about 1 day	   |100 XP		    |90% :heavy_check_mark:	   |level 7 - 80%	  |
-|16	|[C 03](./c_piscine_c_03)			     |C			    |about 1 day	   |100 XP		    |100% :heavy_check_mark:	 |level 7 - 89%	  |
+|08	|[C 03](./C03)			     |C			    |about 1 day	   |100 XP		    |50% :heavy_check_mark:	   |level 5 - 33%	  |
+|09	|[C 02](./C02)			     |C			    |about 1 day	   |100 XP		    |85% :heavy_check_mark:		 |level 5 - 73%	  |
+|10	|[C 03](./C03)			     |C			    |about 1 day	   |100 XP		    |75% :heavy_check_mark:	   |level 5 - 84%	  |
+|11	|[C 04](./C04)			     |C			    |about 1 day	   |100 XP		    |70% :heavy_check_mark:	   |level 6 - 07%	  |
+|12	|[Rush 01](./Rush01)		 |C			    |2 days			     |150 XP		    |100% :heavy_check_mark:	 |level 6 - 70%	  |
+|13	|[C 06](./C06)			     |C			    |about 1 day	   |100 XP		    |100% :heavy_check_mark:	 |level 7 - 10%	  |
+|14	|[Shell 01](./Shell01)	 |Shell		  |about 1 day	   |100 XP		    |100% :heavy_check_mark:	 |level 7 - 47%	  |
+|15	|[C 05](./C05)			     |C			    |about 1 day	   |100 XP		    |90% :heavy_check_mark:	   |level 7 - 80%	  |
+|16	|[C 03](./C03)			     |C			    |about 1 day	   |100 XP		    |100% :heavy_check_mark:	 |level 7 - 89%	  |
 |17	|Exam 02							             |C			    |about 4 hours	 |225 XP		    |84% :heavy_check_mark:		 |level 8 - 51%	  |
-|18	|[C 04](./c_piscine_c_04)			     |C			    |about 1 day	   |100 XP		    |85% :heavy_check_mark:	   |level 8 - 62%	  |
-|19	|[C 07](./c_piscine_c_07)			     |C			    |about 1 day	   |100 XP		    |60% :heavy_check_mark:    |level 8 - 82%  	|
-|20	|[Rush 02](./c_piscine_rush_02)		 |C			    |2 days			     |150 XP		    |105% :heavy_check_mark:   |level 9 - 29%  	|
-|21	|[C 08](./c_piscine_c_08)			     |C			    |about 1 day	   |100 XP		    |70% :heavy_check_mark:    |level 9 - 49%  	|
+|18	|[C 04](./C04)			     |C			    |about 1 day	   |100 XP		    |85% :heavy_check_mark:	   |level 8 - 62%	  |
+|19	|[C 07](./C07)			     |C			    |about 1 day	   |100 XP		    |60% :heavy_check_mark:    |level 8 - 82%  	|
+|20	|[Rush 02](./Rush02)		 |C			    |2 days			     |150 XP		    |105% :heavy_check_mark:   |level 9 - 29%  	|
+|21	|[C 08](./C08)			     |C			    |about 1 day	   |100 XP		    |70% :heavy_check_mark:    |level 9 - 49%  	|
 |22	|Final Exam							           |C			    |about 8 hours	 |375 XP		    |72% :heavy_check_mark:		 |level 10 - 23%  |
