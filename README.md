@@ -9,6 +9,8 @@ This repository contains coding developed at [42 Yerevan's](https://www.42yereva
 	methodology that develops both computing and life skills. The 42 cursus is free for whoever is
 	approved in its selection process. The so-called "C Piscine", a 26-day C programming bootcamp,
 	is the last stage in the selection process for becoming a "cadet" (42's student).
+	
+[![Photo of a 42 Yerevan lab](42_Yerevan.jpg)](https://www.42yerevan.am/)
 
 ## Skills developed at C Piscine
 
