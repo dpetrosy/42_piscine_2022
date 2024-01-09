@@ -50,7 +50,7 @@ This repository contains coding developed at [42 Yerevan's](https://42yerevan.am
 The table below presents the C Piscine's curriculum in chronological order in which it was completed by me - order of completed subjects and corresponding attained level may vary among students.
 
 |#	|SUBJECT							             |LANGUAGE	|DURATION		     |EXPERIENCE	  |STATUS						         |ATTAINED LEVEL	|
-|:-:|:--								               |:-:		    |--:			       |--:		        |--:						           |:--			        |
+|:-:|:--:								               |:-:		    |:--:			       |:--:		        |:--:						           |:--:			        |
 |00	|Create intra page			           |N/A		    |-				       |0 XP		      |100% :heavy_check_mark:	 |level 0 - 0%	  |
 |01	|Exam 00							             |C			    |about 2 hours	 |225 XP		    |64% :heavy_check_mark:		 |level 1 - 23% 	|
 |02	|[Shell 00](./Shell00)	 |Shell		  |about 1 day	   |100 XP		    |100% :heavy_check_mark:	 |level 2 - 01%  	|
